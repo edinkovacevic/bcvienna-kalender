@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anakin//BC Vienna Heimspiele//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:BC Vienna Heimspiele 2026/27
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bcv-home-20261003-ubtclujnapoca@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:BC Vienna Arena\, Wien
+SUMMARY:[17:00] BC Vienna vs U-BT Cluj-Napoca (BC Vienna Arena\, Wien)
+DESCRIPTION:ABA League · 2. Runde | Tip-off 17:00\, inkl. 75 min An-/Abfahrtspuffer
+DTSTART;TZID=Europe/Vienna:20261003T154500
+DTEND;TZID=Europe/Vienna:20261003T201500
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20261004-sknstpltenbasketball@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:Rundhalle Kagran\, Wien
+SUMMARY:[18:00] BC Vienna vs SKN St. Pölten Basketball (Rundhalle Kagran\, Wien)
+DESCRIPTION:BSL · 3. Runde | Tip-off 18:00\, inkl. 75 min An-/Abfahrtspuffer
+DTSTART;TZID=Europe/Vienna:20261004T164500
+DTEND;TZID=Europe/Vienna:20261004T211500
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20261014-kingszczecin@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:BC Vienna Arena\, Wien
+SUMMARY:(Tip-Off tbd) BC Vienna vs King Szczecin (BC Vienna Arena\, Wien)
+DESCRIPTION:FIBA Europe Cup · Regular Season | Uhrzeit noch nicht bekannt (Stand bcvienna.com)\, Blocker 18:30-21:30
+DTSTART;TZID=Europe/Vienna:20261014T183000
+DTEND;TZID=Europe/Vienna:20261014T213000
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20261016-kkzadar@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:BC Vienna Arena\, Wien
+SUMMARY:[17:00] BC Vienna vs KK Zadar (BC Vienna Arena\, Wien)
+DESCRIPTION:ABA League · 4. Runde | Tip-off 17:00\, inkl. 75 min An-/Abfahrtspuffer
+DTSTART;TZID=Europe/Vienna:20261016T154500
+DTEND;TZID=Europe/Vienna:20261016T201500
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20261018-coldamariseisenstadtdragonz@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:Rundhalle Kagran\, Wien
+SUMMARY:[18:00] BC Vienna vs Coldamaris Eisenstadt Dragonz (Rundhalle Kagran\, Wien)
+DESCRIPTION:BSL · 5. Runde | Tip-off 18:00\, inkl. 75 min An-/Abfahrtspuffer
+DTSTART;TZID=Europe/Vienna:20261018T164500
+DTEND;TZID=Europe/Vienna:20261018T211500
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20261024-kkmegasuperbet@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:BC Vienna Arena\, Wien
+SUMMARY:(Tip-Off tbd) BC Vienna vs KK Mega Superbet (BC Vienna Arena\, Wien)
+DESCRIPTION:ABA League · 5. Runde | Uhrzeit noch nicht bekannt (Stand bcvienna.com)\, Blocker 18:30-21:30
+DTSTART;TZID=Europe/Vienna:20261024T183000
+DTEND;TZID=Europe/Vienna:20261024T213000
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20261028-keravnosbc@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:BC Vienna Arena\, Wien
+SUMMARY:(Tip-Off tbd) BC Vienna vs Keravnos BC (BC Vienna Arena\, Wien)
+DESCRIPTION:FIBA Europe Cup · Regular Season | Uhrzeit noch nicht bekannt (Stand bcvienna.com)\, Blocker 18:30-21:30
+DTSTART;TZID=Europe/Vienna:20261028T183000
+DTEND;TZID=Europe/Vienna:20261028T213000
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20261031-bosnabhtelecom@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:BC Vienna Arena\, Wien
+SUMMARY:[17:00] BC Vienna vs Bosna BH Telecom (BC Vienna Arena\, Wien)
+DESCRIPTION:ABA League · 6. Runde | Tip-off 17:00\, inkl. 75 min An-/Abfahrtspuffer
+DTSTART;TZID=Europe/Vienna:20261031T154500
+DTEND;TZID=Europe/Vienna:20261031T201500
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20261101-raiffeisenswansgmunden@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:Rundhalle Kagran\, Wien
+SUMMARY:[18:00] BC Vienna vs Raiffeisen Swans Gmunden (Rundhalle Kagran\, Wien)
+DESCRIPTION:BSL · 8. Runde | Tip-off 18:00\, inkl. 75 min An-/Abfahrtspuffer
+DTSTART;TZID=Europe/Vienna:20261101T164500
+DTEND;TZID=Europe/Vienna:20261101T211500
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20261111-saspslucnancybasket@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:BC Vienna Arena\, Wien
+SUMMARY:(Tip-Off tbd) BC Vienna vs SASP SLUC Nancy Basket (BC Vienna Arena\, Wien)
+DESCRIPTION:FIBA Europe Cup · Regular Season | Uhrzeit noch nicht bekannt (Stand bcvienna.com)\, Blocker 18:30-21:30
+DTSTART;TZID=Europe/Vienna:20261111T183000
+DTEND;TZID=Europe/Vienna:20261111T213000
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20261113-bkkarbonxdukes@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:Rundhalle Kagran\, Wien
+SUMMARY:[20:00] BC Vienna vs BK Karbon-X Dukes (Rundhalle Kagran\, Wien)
+DESCRIPTION:BSL · 10. Runde | Tip-off 20:00\, inkl. 75 min An-/Abfahrtspuffer
+DTSTART;TZID=Europe/Vienna:20261113T184500
+DTEND;TZID=Europe/Vienna:20261113T231500
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20261115-eaglesraiffeisenubscgraz@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:Rundhalle Kagran\, Wien
+SUMMARY:[18:00] BC Vienna vs Eagles Raiffeisen UBSC Graz (Rundhalle Kagran\, Wien)
+DESCRIPTION:BSL · 11. Runde | Tip-off 18:00\, inkl. 75 min An-/Abfahrtspuffer
+DTSTART;TZID=Europe/Vienna:20261115T164500
+DTEND;TZID=Europe/Vienna:20261115T211500
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20261204-scderby@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:BC Vienna Arena\, Wien
+SUMMARY:[17:00] BC Vienna vs SC Derby (BC Vienna Arena\, Wien)
+DESCRIPTION:ABA League · 10. Runde | Tip-off 17:00\, inkl. 75 min An-/Abfahrtspuffer
+DTSTART;TZID=Europe/Vienna:20261204T154500
+DTEND;TZID=Europe/Vienna:20261204T201500
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20261208-pirlokufsteintowers@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:Rundhalle Kagran\, Wien
+SUMMARY:[18:00] BC Vienna vs Pirlo Kufstein Towers (Rundhalle Kagran\, Wien)
+DESCRIPTION:BSL · 13. Runde | Tip-off 18:00\, inkl. 75 min An-/Abfahrtspuffer
+DTSTART;TZID=Europe/Vienna:20261208T164500
+DTEND;TZID=Europe/Vienna:20261208T211500
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20261209-tbd@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:BC Vienna Arena\, Wien
+SUMMARY:(Tip-Off tbd) BC Vienna vs TBD (BC Vienna Arena\, Wien)
+DESCRIPTION:FIBA Europe Cup · Regular Season | Uhrzeit noch nicht bekannt (Stand bcvienna.com)\, Blocker 18:30-21:30
+DTSTART;TZID=Europe/Vienna:20261209T183000
+DTEND;TZID=Europe/Vienna:20261209T213000
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20261219-dubaibasketball@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:BC Vienna Arena\, Wien
+SUMMARY:[17:00] BC Vienna vs Dubai Basketball (BC Vienna Arena\, Wien)
+DESCRIPTION:ABA League · 12. Runde | Tip-off 17:00\, inkl. 75 min An-/Abfahrtspuffer
+DTSTART;TZID=Europe/Vienna:20261219T154500
+DTEND;TZID=Europe/Vienna:20261219T201500
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20261223-nitrabluewings@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:BC Vienna Arena\, Wien
+SUMMARY:(Tip-Off tbd) BC Vienna vs Nitra Blue Wings (BC Vienna Arena\, Wien)
+DESCRIPTION:FIBA Europe Cup · Regular Season | Uhrzeit noch nicht bekannt (Stand bcvienna.com)\, Blocker 18:30-21:30
+DTSTART;TZID=Europe/Vienna:20261223T183000
+DTEND;TZID=Europe/Vienna:20261223T213000
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20261228-kkilirija@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:BC Vienna Arena\, Wien
+SUMMARY:(Tip-Off tbd) BC Vienna vs KK Ilirija (BC Vienna Arena\, Wien)
+DESCRIPTION:ABA League · 13. Runde | Uhrzeit noch nicht bekannt (Stand bcvienna.com)\, Blocker 18:30-21:30
+DTSTART;TZID=Europe/Vienna:20261228T183000
+DTEND;TZID=Europe/Vienna:20261228T213000
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20261230-raiffeisenflyerswels@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:Rundhalle Kagran\, Wien
+SUMMARY:[19:00] BC Vienna vs Raiffeisen Flyers Wels (Rundhalle Kagran\, Wien)
+DESCRIPTION:BSL · 16. Runde | Tip-off 19:00\, inkl. 75 min An-/Abfahrtspuffer
+DTSTART;TZID=Europe/Vienna:20261230T174500
+DTEND;TZID=Europe/Vienna:20261230T221500
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20270109-kkpartizanmozzartbet@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:BC Vienna Arena\, Wien
+SUMMARY:[17:00] BC Vienna vs KK Partizan Mozzart Bet (BC Vienna Arena\, Wien)
+DESCRIPTION:ABA League · 15. Runde | Tip-off 17:00\, inkl. 75 min An-/Abfahrtspuffer
+DTSTART;TZID=Europe/Vienna:20270109T154500
+DTEND;TZID=Europe/Vienna:20270109T201500
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20270110-druckattraiskirchenlions@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:Rundhalle Kagran\, Wien
+SUMMARY:[18:00] BC Vienna vs druck.at Traiskirchen Lions (Rundhalle Kagran\, Wien)
+DESCRIPTION:BSL · 18. Runde | Tip-off 18:00\, inkl. 75 min An-/Abfahrtspuffer
+DTSTART;TZID=Europe/Vienna:20270110T164500
+DTEND;TZID=Europe/Vienna:20270110T211500
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20270123-heftehelfenbullskapfenberg@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:Rundhalle Kagran\, Wien
+SUMMARY:[19:00] BC Vienna vs Hefte Helfen Bulls Kapfenberg (Rundhalle Kagran\, Wien)
+DESCRIPTION:BSL · 20. Runde | Tip-off 19:00\, inkl. 75 min An-/Abfahrtspuffer
+DTSTART;TZID=Europe/Vienna:20270123T174500
+DTEND;TZID=Europe/Vienna:20270123T221500
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20270130-kkspartakofficeshoes@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:BC Vienna Arena\, Wien
+SUMMARY:[17:00] BC Vienna vs KK Spartak Office Shoes (BC Vienna Arena\, Wien)
+DESCRIPTION:ABA League · 18. Runde | Tip-off 17:00\, inkl. 75 min An-/Abfahrtspuffer
+DTSTART;TZID=Europe/Vienna:20270130T154500
+DTEND;TZID=Europe/Vienna:20270130T201500
+END:VEVENT
+BEGIN:VEVENT
+UID:bcv-home-20270131-ungersteelgunnersoberwart@anakin
+DTSTAMP:20260921T090011Z
+LOCATION:Rundhalle Kagran\, Wien
+SUMMARY:[17:30] BC Vienna vs Unger Steel Gunners Oberwart (Rundhalle Kagran\, Wien)
+DESCRIPTION:BSL · 22. Runde | Tip-off 17:30\, inkl. 75 min An-/Abfahrtspuffer
+DTSTART;TZID=Europe/Vienna:20270131T161500
+DTEND;TZID=Europe/Vienna:20270131T204500
+END:VEVENT
+END:VCALENDAR
